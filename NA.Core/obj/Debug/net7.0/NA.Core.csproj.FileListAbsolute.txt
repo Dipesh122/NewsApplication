@@ -1,0 +1,12 @@
+D:\source\repo\NewsApplication\NA.Core\bin\Debug\net7.0\NA.Core.deps.json
+D:\source\repo\NewsApplication\NA.Core\bin\Debug\net7.0\NA.Core.dll
+D:\source\repo\NewsApplication\NA.Core\bin\Debug\net7.0\NA.Core.pdb
+D:\source\repo\NewsApplication\NA.Core\obj\Debug\net7.0\NA.Core.csproj.AssemblyReference.cache
+D:\source\repo\NewsApplication\NA.Core\obj\Debug\net7.0\NA.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repo\NewsApplication\NA.Core\obj\Debug\net7.0\NA.Core.AssemblyInfoInputs.cache
+D:\source\repo\NewsApplication\NA.Core\obj\Debug\net7.0\NA.Core.AssemblyInfo.cs
+D:\source\repo\NewsApplication\NA.Core\obj\Debug\net7.0\NA.Core.csproj.CoreCompileInputs.cache
+D:\source\repo\NewsApplication\NA.Core\obj\Debug\net7.0\NA.Core.dll
+D:\source\repo\NewsApplication\NA.Core\obj\Debug\net7.0\refint\NA.Core.dll
+D:\source\repo\NewsApplication\NA.Core\obj\Debug\net7.0\NA.Core.pdb
+D:\source\repo\NewsApplication\NA.Core\obj\Debug\net7.0\ref\NA.Core.dll

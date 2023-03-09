@@ -1,0 +1,17 @@
+D:\source\repo\NewsApplication\NA.Infrastructure\bin\Debug\net7.0\NA.Infrastructure.deps.json
+D:\source\repo\NewsApplication\NA.Infrastructure\bin\Debug\net7.0\NA.Infrastructure.runtimeconfig.json
+D:\source\repo\NewsApplication\NA.Infrastructure\bin\Debug\net7.0\NA.Infrastructure.dll
+D:\source\repo\NewsApplication\NA.Infrastructure\bin\Debug\net7.0\NA.Infrastructure.pdb
+D:\source\repo\NewsApplication\NA.Infrastructure\bin\Debug\net7.0\NA.Core.dll
+D:\source\repo\NewsApplication\NA.Infrastructure\bin\Debug\net7.0\NA.Core.pdb
+D:\source\repo\NewsApplication\NA.Infrastructure\obj\Debug\net7.0\NA.Infrastructure.csproj.AssemblyReference.cache
+D:\source\repo\NewsApplication\NA.Infrastructure\obj\Debug\net7.0\NA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repo\NewsApplication\NA.Infrastructure\obj\Debug\net7.0\NA.Infrastructure.AssemblyInfoInputs.cache
+D:\source\repo\NewsApplication\NA.Infrastructure\obj\Debug\net7.0\NA.Infrastructure.AssemblyInfo.cs
+D:\source\repo\NewsApplication\NA.Infrastructure\obj\Debug\net7.0\NA.Infrastructure.csproj.CoreCompileInputs.cache
+D:\source\repo\NewsApplication\NA.Infrastructure\obj\Debug\net7.0\NA.Infrastructure.csproj.CopyComplete
+D:\source\repo\NewsApplication\NA.Infrastructure\obj\Debug\net7.0\NA.Infrastructure.dll
+D:\source\repo\NewsApplication\NA.Infrastructure\obj\Debug\net7.0\refint\NA.Infrastructure.dll
+D:\source\repo\NewsApplication\NA.Infrastructure\obj\Debug\net7.0\NA.Infrastructure.pdb
+D:\source\repo\NewsApplication\NA.Infrastructure\obj\Debug\net7.0\NA.Infrastructure.genruntimeconfig.cache
+D:\source\repo\NewsApplication\NA.Infrastructure\obj\Debug\net7.0\ref\NA.Infrastructure.dll

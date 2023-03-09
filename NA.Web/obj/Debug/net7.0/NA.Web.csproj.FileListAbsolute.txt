@@ -31,3 +31,17 @@ D:\source\repo\NewsApplication\na.web\obj\Debug\net7.0\refint\NA.Web.dll
 D:\source\repo\NewsApplication\na.web\obj\Debug\net7.0\NA.Web.pdb
 D:\source\repo\NewsApplication\na.web\obj\Debug\net7.0\NA.Web.genruntimeconfig.cache
 D:\source\repo\NewsApplication\na.web\obj\Debug\net7.0\ref\NA.Web.dll
+D:\source\repo\NewsApplication\na.web\bin\Debug\net7.0\Humanizer.dll
+D:\source\repo\NewsApplication\na.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\source\repo\NewsApplication\na.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\source\repo\NewsApplication\na.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\source\repo\NewsApplication\na.web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\source\repo\NewsApplication\na.web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\source\repo\NewsApplication\na.web\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\source\repo\NewsApplication\na.web\bin\Debug\net7.0\Npgsql.dll
+D:\source\repo\NewsApplication\na.web\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\source\repo\NewsApplication\na.web\bin\Debug\net7.0\System.CodeDom.dll
+D:\source\repo\NewsApplication\na.web\bin\Debug\net7.0\NA.Core.dll
+D:\source\repo\NewsApplication\na.web\bin\Debug\net7.0\NA.Infrastructure.dll
+D:\source\repo\NewsApplication\na.web\bin\Debug\net7.0\NA.Infrastructure.pdb
+D:\source\repo\NewsApplication\na.web\bin\Debug\net7.0\NA.Core.pdb
